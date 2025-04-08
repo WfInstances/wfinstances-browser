@@ -30,7 +30,7 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${REPO}.git
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/jianlongchenn/wfinstances-browser.git
 
           git add README.md
           git commit -m "🔄 Auto-update badges" || echo "No changes to commit"
