@@ -2,8 +2,8 @@
 
 ![Downloads](https://img.shields.io/badge/downloads-182-blue.svg)
 ![Visualizations](https://img.shields.io/badge/visualizations-546-orange.svg)
-![Simulations](https://img.shields.io/badge/simulations-92-success.svg)
-![Users](https://img.shields.io/badge/users-88-lightgrey.svg)
+![Simulations](https://img.shields.io/badge/simulations-97-success.svg)
+![Users](https://img.shields.io/badge/users-89-lightgrey.svg)
 
 ## About 
 
