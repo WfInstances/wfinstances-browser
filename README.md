@@ -1,9 +1,9 @@
 # The WfCommons WfInstances browser
 
-![Downloads](https://img.shields.io/badge/downloads-185-blue.svg)
-![Visualizations](https://img.shields.io/badge/visualizations-585-orange.svg)
-![Simulations](https://img.shields.io/badge/simulations-114-success.svg)
-![Users](https://img.shields.io/badge/users-96-lightgrey.svg)
+![Downloads](https://img.shields.io/badge/downloads-186-blue.svg)
+![Visualizations](https://img.shields.io/badge/visualizations-587-orange.svg)
+![Simulations](https://img.shields.io/badge/simulations-117-success.svg)
+![Users](https://img.shields.io/badge/users-97-lightgrey.svg)
 
 ## About 
 
